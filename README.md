@@ -5,4 +5,4 @@ Project: https://www.theodinproject.com/paths/foundations/courses/foundations/le
 
 Layout goal: https://cdn.statically.io/gh/TheOdinProject/curriculum/main/foundations/html_css/project/odin-project.png
 
-I made this as a possible landing page for a personal website.
+I made this as a possible landing page for a tacos recipe blog. This page is purely for practice using HTML and CSS.
